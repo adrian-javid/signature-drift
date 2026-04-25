@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://dsskainwedj1b"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_f3sb7"]
+size = Vector2(64, 64)
+
+[sub_resource type="PlaceholderTexture2D" id="PlaceholderTexture2D_fj7yv"]
+size = Vector2(64, 64)
+
+[node name="PlaceholderObstacle" type="RigidBody2D" unique_id=1844829608]
+gravity_scale = 0.0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1788207513]
+shape = SubResource("RectangleShape2D_f3sb7")
+metadata/_edit_lock_ = true
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=252975854]
+texture = SubResource("PlaceholderTexture2D_fj7yv")
+metadata/_edit_lock_ = true
