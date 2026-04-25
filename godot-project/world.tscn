@@ -1,8 +1,8 @@
-[gd_scene format=3 uid="uid://bainsmirxv1ht"]
+[gd_scene format=3 uid="uid://cj1png43rai1a"]
 
 [ext_resource type="Texture2D" uid="uid://dymnlfu5xjyru" path="res://icon.svg" id="1_f3sb7"]
 [ext_resource type="Script" uid="uid://ctdqwvrky103g" path="res://player_controller.gd" id="1_fj7yv"]
-[ext_resource type="PackedScene" uid="uid://dsskainwedj1b" path="res://placeholder_obstacle.tscn" id="3_tlwt5"]
+[ext_resource type="PackedScene" path="res://placeholder_obstacle.tscn" id="3_tlwt5"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_fj7yv"]
 size = Vector2(128, 128)

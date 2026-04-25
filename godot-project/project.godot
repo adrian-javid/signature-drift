@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Signature Drift"
-run/main_scene="uid://bainsmirxv1ht"
+run/main_scene="uid://cj1png43rai1a"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
 
