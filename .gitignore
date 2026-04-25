@@ -1,3 +1,6 @@
+# Visual Studio Code
+.vscode/
+
 # Godot 4+ specific ignores
 .godot/
 .nomedia
