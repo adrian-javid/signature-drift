@@ -1,2 +1,2 @@
-# signature-drift
-A multiplayer video game.
+# Signature Drift
+A video game.
